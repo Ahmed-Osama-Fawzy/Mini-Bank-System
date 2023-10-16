@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668620346 source:c:\data\problems\oop c++\mini bank system\dbpart\dbp\main.cpp
+	<iostream>
+	<string>
+	"sqlite3.h"
+	<vector>
+
+1664467309 c:\data\problems\oop c++\mini bank system\dbpart\dbp\sqlite3.h
+	<stdarg.h>
+

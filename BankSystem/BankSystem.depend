@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1668318424 source:c:\data\problems\oop c++\mini bank system\banksystem\main.cpp
+	<iostream>
+	"BankAccount.h"
+	"Client.h"
+	"BankApplication.h"
+
+1668318581 c:\data\problems\oop c++\mini bank system\banksystem\include\bankaccount.h
+	<iostream>
+	<vector>
+
+1668318217 c:\data\problems\oop c++\mini bank system\banksystem\include\client.h
+	<iostream>
+	<vector>
+
+1668318214 c:\data\problems\oop c++\mini bank system\banksystem\include\bankapplication.h
+	<iostream>
+	<vector>
+
+1668318231 source:c:\data\problems\oop c++\mini bank system\banksystem\src\bankaccount.cpp
+	"BankAccount.h"
+
+1668318696 source:c:\data\problems\oop c++\mini bank system\banksystem\src\bankapplication.cpp
+	"BankAccount.h"
+
+1668318704 source:c:\data\problems\oop c++\mini bank system\banksystem\src\client.cpp
+	"BankAccount.h"
+
